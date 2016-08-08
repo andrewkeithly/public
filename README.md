@@ -1,6 +1,6 @@
-This is Andrew Keithly's GitHub page.
+# This is Andrew Keithly's GitHub page.
 
-You can contact me at:
-E-Mail: andrew.keithly@gmail.com
-Twitter: @andrewkeithly
-Website: andrewkeithly.github.io
+##### You can find me at:
+**E-Mail**: [andrew.keithly@gmail.com](mailto:andrew.keithly@gmail.com)
+**Twitter**: [@andrewkeithly](https://twitter.com/andrewkeithly)
+**Website**: [andrewkeithly.info](http://www.andrewkeithly.info/)
